@@ -1,11 +1,11 @@
 <p align=center> <a href="https://discord.com/users/828006097196679218"><img src="https://lanyard-profile-readme.vercel.app/api/1086299223991009280" width=45%></a> </p>
 
-<h1 align="center">Hi 👋, I'm Await</h1>
-<h3 align="center">A French developer aged 17</h3>
+<h1 align="center">Hi 👋, I'm LocheMan</h1>
+<h3 align="center">A French developer aged 16</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Private Tool**
 
-- 🌱 I’m currently learning **Python, Js, PHP, HTML/CSS**
+- 🌱 I’m currently learning **Lua, Python, NodeJS, C, C++, Arduino**
 
 <p align="left">
 </p>
